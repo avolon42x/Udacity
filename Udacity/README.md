@@ -1,2 +1,0 @@
-# Udacity
-learning and listening..
